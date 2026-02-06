@@ -32,7 +32,11 @@
 
 ### 👨‍💻 About Me
 
-I specialize in building **autonomous agents**, **complex RAG pipelines**, and **scalable full-stack architectures**. My work focuses on moving AI from "demo" to "production" by handling reliability, latency, and scale.
+I am an **AI Software Engineer** who loves building. I've engineered products at multiple **YC startups** and **a16z-backed** companies, focusing on real-world Agentic AI.
+
+Currently, I'm at **NuStudio.ai**, where I deploy **Agents in production** to solve hard problems in the supply chain domain. I am also engineering **Digital Twins** using **Neurosymbolic AI** for enterprise simulation.
+
+> I just love to build—always curious to learn and explore new things.
 
 > 🔭 **Currently:** Building **Supply Chain AI Agents** at **NuStudio.ai**
 >
