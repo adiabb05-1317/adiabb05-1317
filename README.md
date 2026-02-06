@@ -8,9 +8,9 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-kanneti/)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adikanneti05@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Top_0.9%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/adikanneti05)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Top_0.9%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nova_05/)
 
 </div>
 
@@ -107,5 +107,6 @@ I specialize in building **autonomous agents**, **complex RAG pipelines**, and *
 
 <div align="center">
   <br>
-  <img src="https://leetcode-stats-six.vercel.app/?username=adikanneti05&theme=dark" alt="LeetCode Stats" width="380" />
+<img width="877" height="403" alt="image" src="https://github.com/user-attachments/assets/a6fd04e2-e0e1-49fc-b1c4-5d25a3fff844" />
+
 </div>
