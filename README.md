@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://leetcode.com/u/Nova_05/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Nova__05-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
 </div>
