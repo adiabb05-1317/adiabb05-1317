@@ -24,12 +24,6 @@
 
 </div>
 
-
-### What I improved:
-1.  **LeetCode Fixed:** The badge now explicitly says **"LeetCode"** (logo) and displays your username **"Nova_05"** in the correct brand colors (Black logo on Orange).
-2.  **Personalized Labels:** Instead of generic text like "Connect", the badges now display your **Name** and **Email** directly, making it easier for recruiters to see your info at a glance.
-3.  **Clickable Areas:** Wrapped each image in `<a>` tags with `target="_blank"` (for LinkedIn/LeetCode) so they open in new tabs, keeping visitors on your profile.
-
 ---
 
 ### 👨‍💻 About Me
