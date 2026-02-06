@@ -6,13 +6,29 @@
   bridging the gap between state-of-the-art LLMs and production-grade enterprise solutions.
 </h3>
 
+
+
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-kanneti/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adikanneti05@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nova_05/)
+  <a href="https://www.linkedin.com/in/adithya-kanneti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adithya_Kanneti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:adikanneti05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-adikanneti05-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://leetcode.com/u/Nova_05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Nova__05-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 
 </div>
+
+
+### What I improved:
+1.  **LeetCode Fixed:** The badge now explicitly says **"LeetCode"** (logo) and displays your username **"Nova_05"** in the correct brand colors (Black logo on Orange).
+2.  **Personalized Labels:** Instead of generic text like "Connect", the badges now display your **Name** and **Email** directly, making it easier for recruiters to see your info at a glance.
+3.  **Clickable Areas:** Wrapped each image in `<a>` tags with `target="_blank"` (for LinkedIn/LeetCode) so they open in new tabs, keeping visitors on your profile.
 
 ---
 
