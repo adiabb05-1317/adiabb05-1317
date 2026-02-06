@@ -64,28 +64,4 @@ I am an AI Engineer passionate about bridging the gap between state-of-the-art L
 *   **Tech:** CLIP Model, FAISS Vector Indexing, Python.
 *   **Core:** Enables natural language search across large image datasets using high-dimensional vector similarity.
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiabb05-1317&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adithya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiabb05-1317&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=adikanneti05&theme=dark" alt="LeetCode Stats" width="380" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:adikanneti05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
