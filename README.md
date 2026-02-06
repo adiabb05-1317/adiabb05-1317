@@ -98,12 +98,6 @@ I specialize in building **autonomous agents**, **complex RAG pipelines**, and *
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiabb05-1317&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adithya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiabb05-1317&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
 <div align="center">
   <br>
