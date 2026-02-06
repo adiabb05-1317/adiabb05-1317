@@ -11,19 +11,19 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/adithya-kanneti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Adithya_Kanneti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="mailto:adikanneti05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-adikanneti05-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
   <a href="https://drive.google.com/file/d/18oPC8NQg4ALUf20CXogUDZIAPRmG8j95/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View_PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
+    <img src="https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
   </a>
 
   <a href="https://leetcode.com/u/Nova_05/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Nova__05-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
 </div>
